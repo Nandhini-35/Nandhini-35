@@ -15,7 +15,9 @@ I’m a fresher who is learning programming and building small projects to impro
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nandhini-35&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhini-35&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
