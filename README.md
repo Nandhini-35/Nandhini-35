@@ -5,13 +5,10 @@ I’m a fresher who is learning programming and building small projects to impro
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandhini-venkatesan-b8b3602a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandhini-35)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nandhini_035/)
 [![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/Nandhini_V)
-
----[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nanthini692005@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nanthini692005@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,9 +26,11 @@ I’m a fresher who is learning programming and building small projects to impro
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhini-35&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 ###  Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Nandhini-35&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
