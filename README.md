@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=NANDHINI%20V" alt="nandhu">
 # About Me:
 I’m a fresher who is learning programming and building small projects to improve my skills. I’m interested in web development and software development, and I use GitHub to share my work and track my learning progress.
 
