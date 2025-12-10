@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=NANDHINI%20V" alt="nandhu">
-# About Me:
+
 I’m a fresher who is learning programming and building small projects to improve my skills. I’m interested in web development and software development, and I use GitHub to share my work and track my learning progress.
 
 
@@ -25,7 +25,7 @@ I’m a fresher who is learning programming and building small projects to impro
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhini-35&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-###  Random Dev Quote
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
